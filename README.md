@@ -1,8 +1,10 @@
 # PROOF (PRoduction On-ramp for Optimization and Feasibility)
 PROOF (PRoduction On-ramp for Optimization and Feasibility) is a user-friendly tool designed for managing and executing WDL (Workflow Description Language) workflows using the Cromwell workflow manager. PROOF allows users to:
+
 - Automate all the backend configurations necessary to run your workflows instantly.
 - Validate, troubleshoot, assess performance, and run their workflows all under one roof.
 - Refine their workflows before potential transitions to cloud-based infrastructures, providing a ‘proofing’ resource of sorts.
+
 While it is currently configured to run on the Fred Hutch cluster, it is readily adaptable for local instances and/or instances hosted at other institutions. If interested, please email wilds@fredhutch.org with any questions.
 
 ## Repos:

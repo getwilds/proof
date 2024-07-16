@@ -7,7 +7,7 @@ PROOF (PRoduction On-ramp for Optimization and Feasibility) is a user-friendly t
 
 While it is currently configured to run on the Fred Hutch cluster, it is readily adaptable for local instances and/or instances hosted at other institutions. If interested, please email wilds@fredhutch.org with any questions.
 
-## Repos:
+## Repos
 
 - [proof-api](https://github.com/FredHutch/proof-api): REST API for PROOF used to automate many/most of the startup/configuration steps of WDL workflow submission via Cromwell.
     - Latest release: [v1.0.0](https://github.com/FredHutch/proof-api/releases/tag/v1.0.0)
@@ -18,21 +18,21 @@ While it is currently configured to run on the Fred Hutch cluster, it is readily
 - [proofr](https://github.com/getwilds/proofr): R package for interacting with the PROOF API mentioned above.
     - Latest release: [v0.2](https://github.com/getwilds/proofr/releases/tag/v0.2)
 
-## Docs:
+## Docs
 
 - Product Description: https://sciwiki.fredhutch.org/datascience/proof/
 - How to Use PROOF: https://sciwiki.fredhutch.org/dasldemos/proof-how-to/
 - PROOF Troubleshooting: https://sciwiki.fredhutch.org/dasldemos/proof-troubleshooting/
 
-## Support:
+## Support
 
 For general questions, reach out to the Fred Hutch Data Science Lab (DaSL) at wilds@fredhutch.org. For bugs and/or feature requests, if you know which repository is the most relevant for your bug/feature, please open an issue directly in the corresponding repository. If you are unclear which repository it belongs in, or if the bug/feature spans across multiple repositories, [open an issue](https://github.com/getwilds/proof/issues) in this overarching PROOF repository and the PROOF development team will file issues in the corresponding locations.
 
-## Contributing:
+## Contributing
 
 If you would like to contribute to this project, see the [contribution guidelines](CONTRIBUTING.md) as well out our [WILDS Contributor Guide](https://getwilds.org/guide/) for more details.
 
-## License:
+## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 

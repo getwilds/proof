@@ -1,3 +1,10 @@
+### September 2024 - PROOF v1.1
+**What's New**
+- Still working on this...
+
+**Fixes**
+- Still working on this...
+
 ### June 2024 - PROOF v1.0
 **What's New**
 - Users can now interact with data stored in S3 buckets within WDL workflows executed in PROOF! Just make sure to have your AWS CLI credentials [established in Rhino](https://sciwiki.fredhutch.org/scicomputing/access_credentials/#configure-aws-cli) and you can use the S3 path just like any other input.

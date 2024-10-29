@@ -1,3 +1,12 @@
+### November 2024 - PROOF v1.2
+**What's New**
+
+- **User Interface Upgrade**: FINISH THIS!!!
+
+**Fixes**
+
+- **Zombie Killer**: FINISH THIS!!!
+
 ### September 2024 - PROOF v1.1
 **What's New**
 

@@ -1,3 +1,21 @@
+### December 2024 - PROOF v1.2
+**What's New**
+
+- **User Interface Upgrade**: After extensive user studies, we have redesigned the user interface of PROOF to 
+provide a better experience for our users throughout their research. By transitioning the framework of our 
+Shiny app to bslib, the new interface will provide:
+    - A cleaner and more modern-looking interface
+    - Improved usability for researchers with less scrolling
+    - An updated version of bootstrap for easier programming and improved performance
+
+**Fixes**
+
+- **Scratch Directory Requirement**: With `/fh/scratch/` becoming read-only in early December 2024, users will now be required to have an `/hpc/temp/` directory in order to use PROOF.
+- **Glob Functionality**: Because `/fh/scratch/` did not allow linkages, [globbing functionality](https://github.com/openwdl/wdl/blob/wdl-1.2/SPEC.md#glob) was disabled for PROOF, but now that users are moving to `/hpc/temp/`, users can now provide glob arrays as outputs.
+- **Other Minor Improvements**:
+    - Expanded functionality of "zombie killer" process
+    - No longer restricted to `rhino01`
+
 ### September 2024 - PROOF v1.1
 **What's New**
 

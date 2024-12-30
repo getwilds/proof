@@ -12,7 +12,7 @@ While it is currently configured to run on the Fred Hutch cluster, it is readily
 - [proof-api](https://github.com/FredHutch/proof-api): REST API for PROOF used to automate many/most of the startup/configuration steps of WDL workflow submission via Cromwell.
     - Latest release: [v1.2.1](https://github.com/FredHutch/proof-api/releases/tag/v1.2.1)
 - [shiny-cromwell](https://github.com/FredHutch/shiny-cromwell): Shiny-based front end for PROOF that provides a point-and-click interface for new users.
-    - Latest release: [v1.2.0](https://github.com/FredHutch/shiny-cromwell/releases/tag/v1.2.0)
+    - Latest release: [v1.1.0](https://github.com/FredHutch/shiny-cromwell/releases/tag/v1.1.0)
 - [rcromwell](https://github.com/getwilds/rcromwell): R package for interacting with Cromwell servers and the WDL workflows they manage.
     - Latest release: [v3.3.0](https://github.com/getwilds/rcromwell/releases/tag/v3.3.0)
 - [proofr](https://github.com/getwilds/proofr): R package for interacting with the PROOF API mentioned above.
